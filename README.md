@@ -20,10 +20,10 @@ The Supreme Court in Google v. Oracle (2021) held that reimplementation of funct
 ### Relevant Case Law
 
 - [Baker v. Selden, 101 U.S. 99 (1879)](https://supreme.justia.com/cases/federal/us/101/99/) - Ideas and methods of operation are not copyrightable; only the specific expression is protected.
-- [Lotus Dev. Corp. v. Borland Int'l, Inc., 49 F.3d 807 (1st Cir. 1995), aff'd 516 U.S. 233 (1996)](https://law.justia.com/cases/federal/appellate-courts/F3/49/807/587langlement/) - Menu command hierarchies are uncopyrightable methods of operation under 17 U.S.C. Section 102(b).
+- [Lotus Dev. Corp. v. Borland Int'l, Inc., 49 F.3d 807 (1st Cir. 1995), aff'd 516 U.S. 233 (1996)](https://law.justia.com/cases/federal/appellate-courts/F3/49/807/551122/) - Menu command hierarchies are uncopyrightable methods of operation under 17 U.S.C. Section 102(b).
 - [Google LLC v. Oracle America, Inc., 593 U.S. 1 (2021)](https://supreme.justia.com/cases/federal/us/593/18-956/) - Reimplementation of functional API interfaces constitutes fair use; functional aspects of software are not entitled to the same copyright protection as creative works.
-- [Sega Enterprises Ltd. v. Accolade, Inc., 977 F.2d 1510 (9th Cir. 1992)](https://law.justia.com/cases/federal/appellate-courts/F2/977/1510/341025/) - Reverse engineering of software for purposes of interoperability is fair use.
-- [Sony Computer Entertainment v. Connectix Corp., 203 F.3d 596 (9th Cir. 2000)](https://law.justia.com/cases/federal/appellate-courts/F3/203/596/591212/) - Intermediate copying during reverse engineering to create a compatible product is fair use.
+- [Sega Enterprises Ltd. v. Accolade, Inc., 977 F.2d 1510 (9th Cir. 1992)](https://law.justia.com/cases/federal/appellate-courts/F2/977/1510/305345/) - Reverse engineering of software for purposes of interoperability is fair use.
+- [Sony Computer Entertainment v. Connectix Corp., 203 F.3d 596 (9th Cir. 2000)](https://law.justia.com/cases/federal/appellate-courts/F3/203/596/474793/) - Intermediate copying during reverse engineering to create a compatible product is fair use.
 
 ### First Amendment
 
